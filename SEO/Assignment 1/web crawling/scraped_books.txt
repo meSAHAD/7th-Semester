@@ -1,0 +1,1101 @@
+Scraping: http://books.toscrape.com/catalogue/page-1.html
+ - A Light in the Attic: Â£51.77
+ - Tipping the Velvet: Â£53.74
+ - Soumission: Â£50.10
+ - Sharp Objects: Â£47.82
+ - Sapiens: A Brief History of Humankind: Â£54.23
+ - The Requiem Red: Â£22.65
+ - The Dirty Little Secrets of Getting Your Dream Job: Â£33.34
+ - The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull: Â£17.93
+ - The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics: Â£22.60
+ - The Black Maria: Â£52.15
+ - Starving Hearts (Triangular Trade Trilogy, #1): Â£13.99
+ - Shakespeare's Sonnets: Â£20.66
+ - Set Me Free: Â£17.46
+ - Scott Pilgrim's Precious Little Life (Scott Pilgrim #1): Â£52.29
+ - Rip it Up and Start Again: Â£35.02
+ - Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991: Â£57.25
+ - Olio: Â£23.88
+ - Mesaerion: The Best Science Fiction Stories 1800-1849: Â£37.59
+ - Libertarianism for Beginners: Â£51.33
+ - It's Only the Himalayas: Â£45.17
+
+Scraping: http://books.toscrape.com/catalogue/page-2.html
+ - In Her Wake: Â£12.84
+ - How Music Works: Â£37.32
+ - Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More: Â£30.52
+ - Chase Me (Paris Nights #2): Â£25.27
+ - Black Dust: Â£34.53
+ - Birdsong: A Story in Pictures: Â£54.64
+ - America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana: Â£22.50
+ - Aladdin and His Wonderful Lamp: Â£53.13
+ - Worlds Elsewhere: Journeys Around Shakespeareâs Globe: Â£40.30
+ - Wall and Piece: Â£44.18
+ - The Four Agreements: A Practical Guide to Personal Freedom: Â£17.66
+ - The Five Love Languages: How to Express Heartfelt Commitment to Your Mate: Â£31.05
+ - The Elephant Tree: Â£23.82
+ - The Bear and the Piano: Â£36.89
+ - Sophie's World: Â£15.94
+ - Penny Maybe: Â£33.29
+ - Maude (1883-1993):She Grew Up with the country: Â£18.02
+ - In a Dark, Dark Wood: Â£19.63
+ - Behind Closed Doors: Â£52.22
+ - You can't bury them all: Poems: Â£33.63
+
+Scraping: http://books.toscrape.com/catalogue/page-3.html
+ - Slow States of Collapse: Poems: Â£57.31
+ - Reasons to Stay Alive: Â£26.41
+ - Private Paris (Private #10): Â£47.61
+ - #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.: Â£23.11
+ - Without Borders (Wanderlove #1): Â£45.07
+ - When We Collided: Â£31.77
+ - We Love You, Charlie Freeman: Â£50.27
+ - Untitled Collection: Sabbath Poems 2014: Â£14.27
+ - Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness: Â£44.18
+ - Unicorn Tracks: Â£18.78
+ - Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink: Â£25.52
+ - Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2): Â£16.28
+ - Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity: Â£31.12
+ - This One Summer: Â£19.49
+ - Thirst: Â£17.27
+ - The Torch Is Passed: A Harding Family Story: Â£19.09
+ - The Secret of Dreadwillow Carse: Â£56.13
+ - The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!: Â£56.41
+ - The Past Never Ends: Â£56.50
+ - The Natural History of Us (The Fine Art of Pretending #2): Â£45.22
+
+Scraping: http://books.toscrape.com/catalogue/page-4.html
+ - The Nameless City (The Nameless City #1): Â£38.16
+ - The Murder That Never Was (Forensic Instincts #5): Â£54.11
+ - The Most Perfect Thing: Inside (and Outside) a Bird's Egg: Â£42.96
+ - The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy: Â£23.89
+ - The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing: Â£16.77
+ - The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer: Â£20.59
+ - The Gutsy Girl: Escapades for Your Life of Epic Adventure: Â£37.13
+ - The Electric Pencil: Drawings from Inside State Hospital No. 3: Â£56.06
+ - The Death of Humanity: and the Case for Life: Â£58.11
+ - The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life: Â£49.05
+ - The Art Forger: Â£40.76
+ - The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind: Â£19.73
+ - The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution: Â£32.24
+ - Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up: Â£41.83
+ - Soul Reader: Â£39.58
+ - Security: Â£39.25
+ - Saga, Volume 6 (Saga (Collected Editions) #6): Â£25.02
+ - Saga, Volume 5 (Saga (Collected Editions) #5): Â£51.04
+ - Reskilling America: Learning to Labor in the Twenty-First Century: Â£19.83
+ - Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15): Â£50.40
+
+Scraping: http://books.toscrape.com/catalogue/page-5.html
+ - Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1): Â£13.61
+ - Princess Between Worlds (Wide-Awake Princess #5): Â£13.34
+ - Pop Gun War, Volume 1: Gift: Â£18.97
+ - Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics: Â£36.28
+ - Patience: Â£10.16
+ - Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1): Â£15.44
+ - orange: The Complete Collection 1 (orange: The Complete Collection #1): Â£48.41
+ - Online Marketing for Busy Authors: A Step-By-Step Guide: Â£46.35
+ - On a Midnight Clear: Â£14.07
+ - Obsidian (Lux #1): Â£14.86
+ - My Paris Kitchen: Recipes and Stories: Â£33.37
+ - Masks and Shadows: Â£56.40
+ - Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed: Â£14.02
+ - Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8): Â£46.91
+ - Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4): Â£45.61
+ - Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12): Â£19.92
+ - Layered: Baking, Building, and Styling Spectacular Cakes: Â£40.11
+ - Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners): Â£53.90
+ - Join: Â£35.67
+ - In the Country We Love: My Family Divided: Â£22.00
+
+Scraping: http://books.toscrape.com/catalogue/page-6.html
+ - Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine: Â£57.36
+ - I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5): Â£29.17
+ - I am a Hero Omnibus Volume 1: Â£54.63
+ - How to Be Miserable: 40 Strategies You Already Use: Â£46.03
+ - Her Backup Boyfriend (The Sorensen Family #1): Â£33.97
+ - Giant Days, Vol. 2 (Giant Days #5-8): Â£22.11
+ - Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton: Â£29.69
+ - First and First (Five Boroughs #3): Â£15.97
+ - Fifty Shades Darker (Fifty Shades #2): Â£21.96
+ - Everydata: The Misinformation Hidden in the Little Data You Consume Every Day: Â£54.35
+ - Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master: Â£37.97
+ - Danganronpa Volume 1: Â£51.99
+ - Crown of Midnight (Throne of Glass #2): Â£43.29
+ - Codename Baboushka, Volume 1: The Conclave of Death: Â£36.72
+ - Camp Midnight: Â£17.08
+ - Call the Nurse: True Stories of a Country Nurse on a Scottish Isle: Â£29.14
+ - Burning: Â£28.81
+ - Bossypants: Â£49.46
+ - Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions)): Â£37.92
+ - Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3): Â£28.09
+
+Scraping: http://books.toscrape.com/catalogue/page-7.html
+ - Algorithms to Live By: The Computer Science of Human Decisions: Â£30.81
+ - A World of Flavor: Your Gluten Free Passport: Â£42.95
+ - A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations: Â£56.76
+ - A Murder in Time: Â£16.64
+ - A Flight of Arrows (The Pathfinders #2): Â£55.53
+ - A Fierce and Subtle Poison: Â£28.13
+ - A Court of Thorns and Roses (A Court of Thorns and Roses #1): Â£52.37
+ - (Un)Qualified: How God Uses Broken People to Do Big Things: Â£54.00
+ - You Are What You Love: The Spiritual Power of Habit: Â£21.87
+ - William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4): Â£43.30
+ - Tuesday Nights in 1980: Â£21.04
+ - Tracing Numbers on a Train: Â£41.60
+ - Throne of Glass (Throne of Glass #1): Â£35.07
+ - Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History: Â£59.64
+ - Thirteen Reasons Why: Â£52.72
+ - The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ: Â£58.08
+ - The Wedding Dress: Â£24.12
+ - The Vacationers: Â£42.15
+ - The Third Wave: An Entrepreneurâs Vision of the Future: Â£12.61
+ - The Stranger: Â£17.44
+
+Scraping: http://books.toscrape.com/catalogue/page-8.html
+ - The Shadow Hero (The Shadow Hero): Â£33.14
+ - The Secret (The Secret #1): Â£27.37
+ - The Regional Office Is Under Attack!: Â£51.36
+ - The Psychopath Test: A Journey Through the Madness Industry: Â£36.00
+ - The Project: Â£10.65
+ - The Power of Now: A Guide to Spiritual Enlightenment: Â£43.54
+ - The Omnivore's Dilemma: A Natural History of Four Meals: Â£38.21
+ - The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us: Â£37.34
+ - The Murder of Roger Ackroyd (Hercule Poirot #4): Â£44.10
+ - The Mistake (Off-Campus #2): Â£43.29
+ - The Matchmaker's Playbook (Wingmen Inc. #1): Â£55.85
+ - The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking: Â£37.60
+ - The Long Shadow of Small Ghosts: Murder and Memory in an American City: Â£10.97
+ - The Kite Runner: Â£41.82
+ - The House by the Lake: Â£36.95
+ - The Glittering Court (The Glittering Court #1): Â£44.28
+ - The Girl on the Train: Â£55.02
+ - The Genius of Birds: Â£17.24
+ - The Emerald Mystery: Â£23.15
+ - The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First: Â£41.25
+
+Scraping: http://books.toscrape.com/catalogue/page-9.html
+ - The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.: Â£32.00
+ - The Artist's Way: A Spiritual Path to Higher Creativity: Â£38.49
+ - The Art of War: Â£33.34
+ - The Argonauts: Â£10.93
+ - The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job: Â£27.55
+ - Suddenly in Love (Lake Haven #1): Â£55.99
+ - Something More Than This: Â£16.24
+ - Soft Apocalypse: Â£26.12
+ - So You've Been Publicly Shamed: Â£12.23
+ - Shoe Dog: A Memoir by the Creator of NIKE: Â£23.99
+ - Shobu Samurai, Project Aryoku (#3): Â£29.06
+ - Secrets and Lace (Fatal Hearts #1): Â£20.27
+ - Scarlett Epstein Hates It Here: Â£43.55
+ - Romero and Juliet: A Tragic Tale of Love and Zombies: Â£36.94
+ - Redeeming Love: Â£20.47
+ - Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form: Â£41.06
+ - Poems That Make Grown Women Cry: Â£14.19
+ - Nightingale, Sing: Â£38.28
+ - Night Sky with Exit Wounds: Â£41.05
+ - Mrs. Houdini: Â£30.25
+
+Scraping: http://books.toscrape.com/catalogue/page-10.html
+ - Modern Romance: Â£28.26
+ - Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1): Â£10.76
+ - Louisa: The Extraordinary Life of Mrs. Adams: Â£16.85
+ - Little Red: Â£13.47
+ - Library of Souls (Miss Peregrineâs Peculiar Children #3): Â£48.56
+ - Large Print Heart of the Pride: Â£19.15
+ - I Had a Nice Time And Other Lies...: How to find love & sh*t like that: Â£57.36
+ - Hollow City (Miss Peregrineâs Peculiar Children #2): Â£42.98
+ - Grumbles: Â£22.16
+ - Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond: Â£49.43
+ - Frostbite (Vampire Academy #2): Â£29.99
+ - Follow You Home: Â£21.36
+ - First Steps for New Christians (Print Edition): Â£29.00
+ - Finders Keepers (Bill Hodges Trilogy #2): Â£53.53
+ - Fables, Vol. 1: Legends in Exile (Fables #1): Â£41.62
+ - Eureka Trivia 6.0: Â£54.59
+ - Drive: The Surprising Truth About What Motivates Us: Â£34.95
+ - Done Rubbed Out (Reightman & Bailey #1): Â£37.72
+ - Doing It Over (Most Likely To #1): Â£35.61
+ - Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals: Â£42.16
+
+Scraping: http://books.toscrape.com/catalogue/page-11.html
+ - Dark Notes: Â£19.19
+ - Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead: Â£19.43
+ - Close to You: Â£49.46
+ - Chasing Heaven: What Dying Taught Me About Living: Â£37.80
+ - Big Magic: Creative Living Beyond Fear: Â£30.80
+ - Becoming Wise: An Inquiry into the Mystery and Art of Living: Â£27.43
+ - Beauty Restored (Riley Family Legacy Novellas #3): Â£11.11
+ - Batman: The Long Halloween (Batman): Â£36.50
+ - Batman: The Dark Knight Returns (Batman): Â£15.38
+ - Ayumi's Violin: Â£15.48
+ - Anonymous: Â£46.82
+ - Amy Meets the Saints and Sages: Â£18.46
+ - Amid the Chaos: Â£36.58
+ - Amatus: Â£50.54
+ - Agnostic: A Spirited Manifesto: Â£12.51
+ - Zealot: The Life and Times of Jesus of Nazareth: Â£24.70
+ - You (You #1): Â£43.61
+ - Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1): Â£37.34
+ - Wild Swans: Â£14.36
+ - Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond: Â£52.65
+
+Scraping: http://books.toscrape.com/catalogue/page-12.html
+ - Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity: Â£38.20
+ - What's It Like in Space?: Stories from Astronauts Who've Been There: Â£19.60
+ - We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1): Â£53.90
+ - Walt Disney's Alice in Wonderland: Â£12.96
+ - V for Vendetta (V for Vendetta Complete): Â£37.10
+ - Until Friday Night (The Field Party #1): Â£46.31
+ - Unbroken: A World War II Story of Survival, Resilience, and Redemption: Â£45.95
+ - Twenty Yawns: Â£22.08
+ - Through the Woods: Â£25.38
+ - This Is Where It Ends: Â£27.12
+ - The Year of Magical Thinking: Â£43.04
+ - The Wright Brothers: Â£56.80
+ - The White Queen (The Cousins' War #1): Â£25.91
+ - The Wedding Pact (The O'Malleys #2): Â£32.61
+ - The Time Keeper: Â£27.88
+ - The Testament of Mary: Â£52.67
+ - The Star-Touched Queen: Â£46.02
+ - The Songs of the Gods: Â£44.48
+ - The Song of Achilles: Â£37.40
+ - The Rosie Project (Don Tillman #1): Â£54.04
+
+Scraping: http://books.toscrape.com/catalogue/page-13.html
+ - The Power of Habit: Why We Do What We Do in Life and Business: Â£16.88
+ - The Marriage of Opposites: Â£28.08
+ - The Lucifer Effect: Understanding How Good People Turn Evil: Â£10.40
+ - The Long Haul (Diary of a Wimpy Kid #9): Â£44.07
+ - The Loney: Â£23.40
+ - The Literature Book (Big Ideas Simply Explained): Â£17.43
+ - The Last Mile (Amos Decker #2): Â£54.21
+ - The Immortal Life of Henrietta Lacks: Â£40.67
+ - The Hidden Oracle (The Trials of Apollo #1): Â£52.26
+ - The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth: Â£28.77
+ - The Guilty (Will Robie #4): Â£13.82
+ - The First Hostage (J.B. Collins #2): Â£25.85
+ - The Dovekeepers: Â£48.78
+ - The Darkest Lie: Â£35.35
+ - The Bane Chronicles (The Bane Chronicles #1-11): Â£44.73
+ - The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts: Â£15.77
+ - The 14th Colony (Cotton Malone #11): Â£39.24
+ - That Darkness (Gardiner and Renner #1): Â£13.92
+ - Tastes Like Fear (DI Marnie Rome #3): Â£10.69
+ - Take Me with You: Â£45.21
+
+Scraping: http://books.toscrape.com/catalogue/page-14.html
+ - Swell: A Year of Waves: Â£45.58
+ - Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1): Â£11.89
+ - Still Life with Bread Crumbs: Â£26.41
+ - Steve Jobs: Â£39.50
+ - Sorting the Beef from the Bull: The Science of Food Fraud Forensics: Â£44.74
+ - Someone Like You (The Harrisons #2): Â£52.79
+ - So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6): Â£35.43
+ - Shtum: Â£55.84
+ - See America: A Celebration of Our National Parks & Treasured Sites: Â£48.87
+ - salt.: Â£46.78
+ - Robin War: Â£47.82
+ - Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1): Â£25.48
+ - Rain Fish: Â£23.57
+ - Quarter Life Poetry: Poems for the Young, Broke and Hangry: Â£50.89
+ - Pet Sematary: Â£10.56
+ - Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress: Â£52.15
+ - Once Was a Time: Â£18.28
+ - Old School (Diary of a Wimpy Kid #10): Â£11.83
+ - No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon: Â£21.95
+ - Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14): Â£38.39
+
+Scraping: http://books.toscrape.com/catalogue/page-15.html
+ - My Name Is Lucy Barton: Â£41.56
+ - My Mrs. Brown: Â£24.48
+ - My Kind of Crazy: Â£40.36
+ - Mr. Mercedes (Bill Hodges Trilogy #1): Â£28.90
+ - More Than Music (Chasing the Dream #1): Â£37.61
+ - Made to Stick: Why Some Ideas Survive and Others Die: Â£38.85
+ - Luis Paints the World: Â£53.95
+ - Luckiest Girl Alive: Â£49.83
+ - Lowriders to the Center of the Earth (Lowriders in Space #2): Â£51.51
+ - Love Is a Mix Tape (Music #1): Â£18.03
+ - Looking for Lovely: Collecting the Moments that Matter: Â£29.14
+ - Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments: Â£46.91
+ - Let It Out: A Journey Through Journaling: Â£26.79
+ - Lady Midnight (The Dark Artifices #1): Â£16.28
+ - It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes: Â£19.55
+ - Island of Dragons (Unwanteds #7): Â£29.65
+ - I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction: Â£25.98
+ - I Am Pilgrim (Pilgrim #1): Â£10.60
+ - Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened: Â£14.75
+ - Hush, Hush (Hush, Hush #1): Â£47.02
+
+Scraping: http://books.toscrape.com/catalogue/page-16.html
+ - Hold Your Breath (Search and Rescue #1): Â£28.82
+ - Hamilton: The Revolution: Â£58.79
+ - Greek Mythic History: Â£10.23
+ - God: The Most Unpleasant Character in All Fiction: Â£30.03
+ - Glory over Everything: Beyond The Kitchen House: Â£45.84
+ - Feathers: Displays of Brilliant Plumage: Â£49.05
+ - Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years: Â£15.06
+ - Every Last Word: Â£46.47
+ - Eligible (The Austen Project #4): Â£27.09
+ - El Deafo: Â£57.62
+ - Eight Hundred Grapes: Â£14.39
+ - Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life: Â£51.75
+ - Eat Fat, Get Thin: Â£54.07
+ - Don't Get Caught: Â£55.35
+ - Doctor Sleep (The Shining #2): Â£40.12
+ - Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3): Â£37.51
+ - Dear Mr. Knightley: Â£11.21
+ - Daily Fantasy Sports: Â£36.58
+ - Crazy Love: Overwhelmed by a Relentless God: Â£47.72
+ - Cometh the Hour (The Clifton Chronicles #6): Â£25.01
+
+Scraping: http://books.toscrape.com/catalogue/page-17.html
+ - Code Name Verity (Code Name Verity #1): Â£22.13
+ - Clockwork Angel (The Infernal Devices #1): Â£44.14
+ - City of Glass (The Mortal Instruments #3): Â£56.02
+ - City of Fallen Angels (The Mortal Instruments #4): Â£11.23
+ - City of Bones (The Mortal Instruments #1): Â£43.28
+ - City of Ashes (The Mortal Instruments #2): Â£47.27
+ - Cell: Â£20.29
+ - Catching Jordan (Hundred Oaks): Â£50.83
+ - Carry On, Warrior: Thoughts on Life Unarmed: Â£31.85
+ - Carrie: Â£46.23
+ - Buying In: The Secret Dialogue Between What We Buy and Who We Are: Â£37.80
+ - Brain on Fire: My Month of Madness: Â£49.32
+ - Batman: Europa: Â£32.01
+ - Barefoot Contessa Back to Basics: Â£28.01
+ - Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again: Â£50.62
+ - Balloon Animals: Â£17.03
+ - Art Ops Vol. 1: Â£48.80
+ - Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1): Â£58.14
+ - Angels Walking (Angels Walking #1): Â£34.20
+ - Angels & Demons (Robert Langdon #1): Â£51.48
+
+Scraping: http://books.toscrape.com/catalogue/page-18.html
+ - All the Light We Cannot See: Â£29.87
+ - Adulthood Is a Myth: A "Sarah's Scribbles" Collection: Â£10.90
+ - Abstract City: Â£56.37
+ - A Time of Torment (Charlie Parker #14): Â£48.35
+ - A Study in Scarlet (Sherlock Holmes #1): Â£16.73
+ - A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer: Â£56.48
+ - A People's History of the United States: Â£40.79
+ - A Man Called Ove: Â£39.72
+ - A Distant Mirror: The Calamitous 14th Century: Â£14.58
+ - A Brush of Wings (Angels Walking #3): Â£55.51
+ - 1491: New Revelations of the Americas Before Columbus: Â£21.80
+ - The Three Searches, Meaning, and the Story: Â£13.33
+ - Searching for Meaning in Gailana: Â£38.73
+ - Rook: Â£37.86
+ - My Kitchen Year: 136 Recipes That Saved My Life: Â£11.53
+ - 13 Hours: The Inside Account of What Really Happened In Benghazi: Â£27.06
+ - Will You Won't You Want Me?: Â£13.86
+ - Tipping Point for Planet Earth: How Close Are We to the Edge?: Â£37.55
+ - The Star-Touched Queen: Â£32.30
+ - The Silent Sister (Riley MacPherson #1): Â£46.29
+
+Scraping: http://books.toscrape.com/catalogue/page-19.html
+ - The Midnight Watch: A Novel of the Titanic and the Californian: Â£26.20
+ - The Lonely City: Adventures in the Art of Being Alone: Â£33.26
+ - The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore: Â£59.15
+ - The Golden Condom: And Other Essays on Love Lost and Found: Â£39.43
+ - The Epidemic (The Program 0.6): Â£14.44
+ - The Dinner Party: Â£56.54
+ - The Diary of a Young Girl: Â£59.90
+ - The Children: Â£11.88
+ - Stars Above (The Lunar Chronicles #4.5): Â£48.05
+ - Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas: Â£21.21
+ - Raspberry Pi Electronics Projects for the Evil Genius: Â£49.67
+ - Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two: Â£43.14
+ - Psycho: Sanitarium (Psycho #1.5): Â£36.97
+ - Poisonous (Max Revere Novels #3): Â£26.80
+ - One with You (Crossfire #5): Â£15.71
+ - No Love Allowed (Dodge Cove #1): Â£54.65
+ - Murder at the 42nd Street Library (Raymond Ambler #1): Â£54.36
+ - Most Wanted: Â£35.28
+ - Love, Lies and Spies: Â£20.55
+ - How to Speak Golf: An Illustrated Guide to Links Lingo: Â£58.32
+
+Scraping: http://books.toscrape.com/catalogue/page-20.html
+ - Hide Away (Eve Duncan #20): Â£11.84
+ - Furiously Happy: A Funny Book About Horrible Things: Â£41.46
+ - Everyday Italian: 125 Simple and Delicious Recipes: Â£20.10
+ - Equal Is Unfair: America's Misguided Fight Against Income Inequality: Â£56.86
+ - Eleanor & Park: Â£56.51
+ - Dirty (Dive Bar #1): Â£40.83
+ - Can You Keep a Secret? (Fear Street Relaunch #4): Â£48.64
+ - Boar Island (Anna Pigeon #19): Â£59.48
+ - A Paris Apartment: Â£39.01
+ - A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More: Â£38.77
+ - Troublemaker: Surviving Hollywood and Scientology: Â£48.39
+ - The Widow: Â£27.26
+ - The Sleep Revolution: Transforming Your Life, One Night at a Time: Â£11.68
+ - The Improbability of Love: Â£59.45
+ - The Art of Startup Fundraising: Â£21.00
+ - Take Me Home Tonight (Rock Star Romance #3): Â£53.98
+ - Sleeping Giants (Themis Files #1): Â£48.74
+ - Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena: Â£21.15
+ - Playing with Fire: Â£13.71
+ - Off the Hook (Fishing for Trouble #1): Â£47.67
+
+Scraping: http://books.toscrape.com/catalogue/page-21.html
+ - Mothering Sunday: Â£13.34
+ - Mother, Can You Not?: Â£16.89
+ - M Train: Â£27.18
+ - Lilac Girls: Â£17.28
+ - Lies and Other Acts of Love: Â£45.14
+ - Lab Girl: Â£40.85
+ - Keep Me Posted: Â£20.46
+ - It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle: Â£56.27
+ - Grey (Fifty Shades #4): Â£48.49
+ - Exit, Pursued by a Bear: Â£51.34
+ - Daredevils: Â£16.34
+ - Cravings: Recipes for What You Want to Eat: Â£20.50
+ - Born for This: How to Find the Work You Were Meant to Do: Â£21.59
+ - Arena: Â£21.36
+ - Adultery: Â£20.88
+ - A Mother's Reckoning: Living in the Aftermath of Tragedy: Â£19.53
+ - A Gentleman's Position (Society of Gentlemen #3): Â£14.75
+ - 11/22/63: Â£48.48
+ - 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works: Â£24.57
+ - 10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!: Â£49.71
+
+Scraping: http://books.toscrape.com/catalogue/page-22.html
+ - Without Shame: Â£48.27
+ - Watchmen: Â£58.05
+ - Unlimited Intuition Now: Â£58.87
+ - Underlying Notes: Â£11.82
+ - The Shack: Â£28.03
+ - The New Brand You: Your New Image Makes the Sale for You: Â£44.05
+ - The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York: Â£12.34
+ - The Flowers Lied: Â£16.68
+ - The Fabric of the Cosmos: Space, Time, and the Texture of Reality: Â£55.91
+ - The Book of Mormon: Â£24.57
+ - The Art and Science of Low Carbohydrate Living: Â£52.98
+ - The Alien Club: Â£54.40
+ - Suzie Snowflake: One beautiful flake (a self-esteem story): Â£54.81
+ - Nap-a-Roo: Â£25.08
+ - NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond: Â£10.41
+ - Modern Day Fables: Â£47.44
+ - If I Gave You God's Phone Number....: Searching for Spirituality in America: Â£20.91
+ - Fruits Basket, Vol. 9 (Fruits Basket #9): Â£33.95
+ - Dress Your Family in Corduroy and Denim: Â£43.68
+ - Don't Forget Steven: Â£33.23
+
+Scraping: http://books.toscrape.com/catalogue/page-23.html
+ - Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster: Â£35.92
+ - Art and Fear: Observations on the Perils (and Rewards) of Artmaking: Â£48.63
+ - A Shard of Ice (The Black Symphony Saga #1): Â£56.63
+ - A Hero's Curse (The Unseen Chronicles #1): Â£50.49
+ - 23 Degrees South: A Tropical Tale of Changing Whether...: Â£35.79
+ - Zero to One: Notes on Startups, or How to Build the Future: Â£34.06
+ - Why Not Me?: Â£17.76
+ - When Breath Becomes Air: Â£39.36
+ - Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel: Â£36.94
+ - The Unlikely Pilgrimage of Harold Fry (Harold Fry #1): Â£43.62
+ - The New Drawing on the Right Side of the Brain: Â£43.02
+ - The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer: Â£28.45
+ - The Martian (The Martian #1): Â£41.39
+ - The High Mountains of Portugal: Â£51.15
+ - The Grownup: Â£35.88
+ - The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It: Â£36.91
+ - South of Sunshine: Â£28.93
+ - Smarter Faster Better: The Secrets of Being Productive in Life and Business: Â£38.89
+ - Silence in the Dark (Logan Point #4): Â£58.33
+ - Shadows of the Past (Logan Point #1): Â£39.67
+
+Scraping: http://books.toscrape.com/catalogue/page-24.html
+ - Roller Girl: Â£14.10
+ - Rising Strong: Â£21.82
+ - Proofs of God: Classical Arguments from Tertullian to Barth: Â£54.21
+ - Please Kill Me: The Uncensored Oral History of Punk: Â£31.19
+ - Out of Print: City Lights Spotlight No. 14: Â£53.64
+ - My Life Next Door (My Life Next Door ): Â£36.39
+ - Miller's Valley: Â£58.54
+ - Man's Search for Meaning: Â£29.48
+ - Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations: Â£25.06
+ - Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want: Â£12.55
+ - Les Fleurs du Mal: Â£29.04
+ - Left Behind (Left Behind #1): Â£40.72
+ - Kill 'Em and Leave: Searching for James Brown and the American Soul: Â£45.05
+ - Kierkegaard: A Christian Missionary to Christians: Â£47.13
+ - John Vassos: Industrial Design for Modern Life: Â£20.22
+ - I'll Give You the Sun: Â£56.48
+ - I Will Find You: Â£44.21
+ - Hystopia: A Novel: Â£21.96
+ - Howl and Other Poems: Â£40.45
+ - History of Beauty: Â£10.29
+
+Scraping: http://books.toscrape.com/catalogue/page-25.html
+ - Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back: Â£52.86
+ - Future Shock (Future Shock #1): Â£55.65
+ - Ender's Game (The Ender Quintet #1): Â£43.64
+ - Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World: Â£28.41
+ - Death by Leisure: A Cautionary Tale: Â£37.51
+ - Brilliant Beacons: A History of the American Lighthouse: Â£11.45
+ - Brazen: The Courage to Find the You That's Been Hiding: Â£19.22
+ - Between the World and Me: Â£56.91
+ - Being Mortal: Medicine and What Matters in the End: Â£55.06
+ - A Murder Over a Girl: Justice, Gender, Junior High: Â£13.20
+ - 32 Yolks: Â£53.63
+ - "Most Blessed of the Patriarchs": Thomas Jefferson and the Empire of the Imagination: Â£44.48
+ - You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life: Â£12.08
+ - Wildlife of New York: A Five-Borough Coloring Book: Â£22.14
+ - What Happened on Beale Street (Secrets of the South Mysteries #2): Â£25.37
+ - Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain: Â£46.33
+ - Under the Tuscan Sun: Â£37.33
+ - Toddlers Are A**holes: It's Not Your Fault: Â£25.55
+ - The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible: Â£34.72
+ - The Whale: Â£35.96
+
+Scraping: http://books.toscrape.com/catalogue/page-26.html
+ - The Story of Art: Â£41.14
+ - The Origin of Species: Â£10.01
+ - The Great Gatsby: Â£36.05
+ - The Good Girl: Â£49.03
+ - The Glass Castle: Â£16.24
+ - The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist: Â£39.55
+ - The Drowning Girls: Â£35.67
+ - The Constant Princess (The Tudor Court #1): Â£16.62
+ - The Bourne Identity (Jason Bourne #1): Â£42.78
+ - The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1): Â£52.30
+ - The Art Book: Â£32.34
+ - The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change: Â£33.17
+ - Team of Rivals: The Political Genius of Abraham Lincoln: Â£20.12
+ - Steal Like an Artist: 10 Things Nobody Told You About Being Creative: Â£20.90
+ - Sit, Stay, Love: Â£20.90
+ - Sister Dear: Â£40.20
+ - Shrunken Treasures: Literary Classics, Short, Sweet, and Silly: Â£52.87
+ - Rich Dad, Poor Dad: Â£51.74
+ - Raymie Nightingale: Â£34.41
+ - Playing from the Heart: Â£32.38
+
+Scraping: http://books.toscrape.com/catalogue/page-27.html
+ - Nightstruck: A Novel: Â£50.35
+ - Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories: Â£11.38
+ - Meternity: Â£43.58
+ - Memoirs of a Geisha: Â£49.67
+ - Like Never Before (Walker Family #2): Â£28.77
+ - Life of Pi: Â£13.22
+ - Leave This Song Behind: Teen Poetry at Its Best: Â£51.17
+ - King's Folly (The Kinsman Chronicles #1): Â£39.61
+ - John Adams: Â£57.43
+ - How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything): Â£46.01
+ - How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking: Â£28.25
+ - Good in Bed (Cannie Shapiro #1): Â£37.05
+ - Fruits Basket, Vol. 7 (Fruits Basket #7): Â£19.57
+ - For the Love: Fighting for Grace in a World of Impossible Standards: Â£45.13
+ - Finding God in the Ruins: How God Redeems Pain: Â£46.64
+ - Every Heart a Doorway (Every Heart A Doorway #1): Â£12.16
+ - Delivering the Truth (Quaker Midwife Mystery #1): Â£20.89
+ - Counted With the Stars (Out from Egypt #1): Â£17.97
+ - Chronicles, Vol. 1: Â£52.60
+ - Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality: Â£25.77
+
+Scraping: http://books.toscrape.com/catalogue/page-28.html
+ - Benjamin Franklin: An American Life: Â£48.19
+ - At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others: Â£29.93
+ - A Summer In Europe: Â£44.34
+ - A Short History of Nearly Everything: Â£52.40
+ - A Gathering of Shadows (Shades of Magic #2): Â£44.81
+ - The Sound Of Love: Â£57.84
+ - The Rise and Fall of the Third Reich: A History of Nazi Germany: Â£39.67
+ - The Perks of Being a Wallflower: Â£55.02
+ - The Mysterious Affair at Styles (Hercule Poirot #1): Â£24.80
+ - The Man Who Mistook His Wife for a Hat and Other Clinical Tales: Â£59.45
+ - The Makings of a Fatherless Child: Â£31.58
+ - The Joy of Cooking: Â£43.27
+ - The Invention of Wings: Â£37.34
+ - The Hobbit (Middle-Earth Universe): Â£17.80
+ - The Great Railway Bazaar: Â£30.54
+ - The Golden Compass (His Dark Materials #1): Â£18.77
+ - The God Delusion: Â£46.85
+ - The Girl You Left Behind (The Girl You Left Behind #1): Â£15.79
+ - The Fellowship of the Ring (The Lord of the Rings #1): Â£10.27
+ - The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1): Â£15.42
+
+Scraping: http://books.toscrape.com/catalogue/page-29.html
+ - The Barefoot Contessa Cookbook: Â£59.92
+ - Tell the Wolves I'm Home: Â£50.96
+ - Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman: Â£30.60
+ - Pride and Prejudice: Â£19.27
+ - Musicophilia: Tales of Music and the Brain: Â£46.58
+ - Mere Christianity: Â£48.51
+ - Me Before You (Me Before You #1): Â£19.02
+ - In the Woods (Dublin Murder Squad #1): Â£38.38
+ - In Cold Blood: Â£49.98
+ - How to Stop Worrying and Start Living: Â£46.49
+ - Give It Back: Â£18.32
+ - Girl, Interrupted: Â£42.14
+ - Fun Home: A Family Tragicomic: Â£56.59
+ - Fruits Basket, Vol. 6 (Fruits Basket #6): Â£20.96
+ - Deception Point: Â£40.32
+ - Death Note, Vol. 6: Give-and-Take (Death Note #6): Â£36.39
+ - Catherine the Great: Portrait of a Woman: Â£58.55
+ - Better Homes and Gardens New Cook Book: Â£39.61
+ - An Unquiet Mind: A Memoir of Moods and Madness: Â£21.30
+ - A Year in Provence (Provence #1): Â£56.88
+
+Scraping: http://books.toscrape.com/catalogue/page-30.html
+ - World Without End (The Pillars of the Earth #2): Â£32.97
+ - Will Grayson, Will Grayson (Will Grayson, Will Grayson): Â£47.31
+ - Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis: Â£48.67
+ - Where She Went (If I Stay #2): Â£41.73
+ - What If?: Serious Scientific Answers to Absurd Hypothetical Questions: Â£53.68
+ - Two Summers: Â£14.64
+ - This Is Your Brain on Music: The Science of a Human Obsession: Â£38.40
+ - The Secret Garden: Â£15.08
+ - The Raven King (The Raven Cycle #4): Â£30.57
+ - The Raven Boys (The Raven Cycle #1): Â£57.74
+ - The Power Greens Cookbook: 140 Delicious Superfood Recipes: Â£11.05
+ - The Metamorphosis: Â£28.58
+ - The Mathews Men: Seven Brothers and the War Against Hitler's U-boats: Â£42.91
+ - The Little Paris Bookshop: Â£24.73
+ - The Hiding Place: Â£55.91
+ - The Grand Design: Â£13.76
+ - The Firm: Â£45.56
+ - The Fault in Our Stars: Â£47.22
+ - The False Prince (The Ascendance Trilogy #1): Â£56.00
+ - The Expatriates: Â£44.58
+
+Scraping: http://books.toscrape.com/catalogue/page-31.html
+ - The Dream Thieves (The Raven Cycle #2): Â£34.50
+ - The Darkest Corners: Â£11.33
+ - The Crossover: Â£38.77
+ - The 5th Wave (The 5th Wave #1): Â£11.83
+ - Tell the Wind and Fire: Â£45.51
+ - Tell Me Three Things: Â£41.81
+ - Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut: Â£25.15
+ - Siddhartha: Â£34.22
+ - Shiver (The Wolves of Mercy Falls #1): Â£16.23
+ - Remember Me?: Â£11.48
+ - Red Dragon (Hannibal Lecter #1): Â£23.37
+ - Peak: Secrets from the New Science of Expertise: Â£16.28
+ - My Mother Was Nuts: Â£31.63
+ - Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens: Â£24.91
+ - Maybe Something Beautiful: How Art Transformed a Neighborhood: Â£22.54
+ - Lola and the Boy Next Door (Anna and the French Kiss #2): Â£23.63
+ - Logan Kade (Fallen Crest High #5.5): Â£13.12
+ - Last One Home (New Beginnings #1): Â£59.98
+ - Killing Floor (Jack Reacher #1): Â£31.49
+ - Kill the Boy Band: Â£15.52
+
+Scraping: http://books.toscrape.com/catalogue/page-32.html
+ - Isla and the Happily Ever After (Anna and the French Kiss #3): Â£48.13
+ - If I Stay (If I Stay #1): Â£38.13
+ - I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1): Â£36.55
+ - Harry Potter and the Deathly Hallows (Harry Potter #7): Â£23.32
+ - Fruits Basket, Vol. 5 (Fruits Basket #5): Â£16.33
+ - Foundation (Foundation (Publication Order) #1): Â£32.42
+ - Fool Me Once: Â£16.96
+ - Find Her (Detective D.D. Warren #8): Â£22.37
+ - Evicted: Poverty and Profit in the American City: Â£42.27
+ - Drama: Â£38.70
+ - Dracula the Un-Dead: Â£35.63
+ - Digital Fortress: Â£58.00
+ - Death Note, Vol. 5: Whiteout (Death Note #5): Â£52.41
+ - Data, A Love Story: How I Gamed Online Dating to Meet My Match: Â£32.35
+ - Critique of Pure Reason: Â£20.75
+ - Booked: Â£17.49
+ - Blue Lily, Lily Blue (The Raven Cycle #3): Â£34.13
+ - Approval Junkie: Adventures in Caring Too Much: Â£58.81
+ - An Abundance of Katherines: Â£10.00
+ - America's War for the Greater Middle East: A Military History: Â£51.22
+
+Scraping: http://books.toscrape.com/catalogue/page-33.html
+ - Alight (The Generations Trilogy #2): Â£58.59
+ - A Girl's Guide to Moving On (New Beginnings #2): Â£31.30
+ - A Game of Thrones (A Song of Ice and Fire #1): Â£46.42
+ - A Feast for Crows (A Song of Ice and Fire #4): Â£17.21
+ - A Clash of Kings (A Song of Ice and Fire #2): Â£10.79
+ - Vogue Colors A to Z: A Fashion Coloring Book: Â£52.35
+ - The Shining (The Shining #1): Â£27.88
+ - The Pilgrim's Progress: Â£50.26
+ - The Perfect Play (Play by Play #1): Â£59.99
+ - The Passion of Dolssa: Â£28.32
+ - The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe: Â£38.71
+ - The Hunger Games (The Hunger Games #1): Â£29.85
+ - The Hound of the Baskervilles (Sherlock Holmes #5): Â£14.82
+ - The Gunning of America: Business and the Making of American Gun Culture: Â£16.81
+ - The Geography of Bliss: One Grump's Search for the Happiest Places in the World: Â£28.23
+ - The Demonists (Demonist #1): Â£52.11
+ - The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4): Â£27.88
+ - The Bone Hunters (Lexy Vaughan & Steven Macaulay #2): Â£59.71
+ - The Beast (Black Dagger Brotherhood #14): Â£46.08
+ - Some Women: Â£13.73
+
+Scraping: http://books.toscrape.com/catalogue/page-34.html
+ - Shopaholic Ties the Knot (Shopaholic #3): Â£48.39
+ - Paper and Fire (The Great Library #2): Â£49.45
+ - Outlander (Outlander #1): Â£19.67
+ - Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors: Â£12.36
+ - No One Here Gets Out Alive: Â£20.02
+ - Night Shift (Night Shift #1-20): Â£12.75
+ - Needful Things: Â£47.51
+ - Mockingjay (The Hunger Games #3): Â£20.44
+ - Misery: Â£34.79
+ - Little Women (Little Women #1): Â£28.07
+ - It: Â£25.01
+ - Harry Potter and the Sorcerer's Stone (Harry Potter #1): Â£13.90
+ - Harry Potter and the Prisoner of Azkaban (Harry Potter #3): Â£24.17
+ - Harry Potter and the Order of the Phoenix (Harry Potter #5): Â£31.63
+ - Harry Potter and the Half-Blood Prince (Harry Potter #6): Â£48.75
+ - Harry Potter and the Chamber of Secrets (Harry Potter #2): Â£14.74
+ - Gone with the Wind: Â£32.49
+ - God Is Not Great: How Religion Poisons Everything: Â£27.80
+ - Girl With a Pearl Earring: Â£26.77
+ - Fruits Basket, Vol. 4 (Fruits Basket #4): Â£50.44
+
+Scraping: http://books.toscrape.com/catalogue/page-35.html
+ - Far From True (Promise Falls Trilogy #2): Â£34.93
+ - Dark Lover (Black Dagger Brotherhood #1): Â£12.87
+ - Confessions of a Shopaholic (Shopaholic #1): Â£48.94
+ - Changing the Game (Play by Play #2): Â£13.38
+ - Candide: Â£58.63
+ - Can You Keep a Secret?: Â£21.94
+ - Atlas Shrugged: Â£26.58
+ - Animal Farm: Â£57.22
+ - A Walk to Remember: Â£56.43
+ - A New Earth: Awakening to Your Life's Purpose: Â£55.65
+ - A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam: Â£27.62
+ - 'Salem's Lot: Â£49.56
+ - Zero History (Blue Ant #3): Â£34.77
+ - Wuthering Heights: Â£17.73
+ - World War Z: An Oral History of the Zombie War: Â£21.80
+ - Wild: From Lost to Found on the Pacific Crest Trail: Â£46.02
+ - Where'd You Go, Bernadette: Â£18.13
+ - When You Are Engulfed in Flames: Â£30.89
+ - We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America: Â£31.95
+ - We Are All Completely Beside Ourselves: Â£24.04
+
+Scraping: http://books.toscrape.com/catalogue/page-36.html
+ - Walk the Edge (Thunder Road #2): Â£32.36
+ - Voyager (Outlander #3): Â£21.07
+ - Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination: Â£50.66
+ - Vegan Vegetarian Omnivore: Dinner for Everyone at the Table: Â£13.66
+ - Unstuffed: Decluttering Your Home, Mind, and Soul: Â£58.09
+ - Under the Banner of Heaven: A Story of Violent Faith: Â£30.00
+ - Two Boys Kissing: Â£32.74
+ - Twilight (Twilight #1): Â£41.93
+ - Twenties Girl: Â£42.80
+ - Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland: Â£53.51
+ - Three-Martini Lunch: Â£23.21
+ - Thinking, Fast and Slow: Â£21.14
+ - The Wild Robot: Â£56.07
+ - The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine): Â£14.41
+ - The Undomestic Goddess: Â£45.75
+ - The Travelers: Â£15.77
+ - The Tipping Point: How Little Things Can Make a Big Difference: Â£10.02
+ - The Thing About Jellyfish: Â£48.77
+ - The Stand: Â£57.86
+ - The Smitten Kitchen Cookbook: Â£23.59
+
+Scraping: http://books.toscrape.com/catalogue/page-37.html
+ - The Silkworm (Cormoran Strike #2): Â£23.05
+ - The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3): Â£55.55
+ - The Rose & the Dagger (The Wrath and the Dawn #2): Â£58.64
+ - The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2): Â£23.21
+ - The Rise of Theodore Roosevelt (Theodore Roosevelt #1): Â£42.57
+ - The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2): Â£10.92
+ - The Rest Is Noise: Listening to the Twentieth Century: Â£34.77
+ - The Red Tent: Â£35.66
+ - The Purpose Driven Life: What on Earth Am I Here for?: Â£37.19
+ - The Purest Hook (Second Circle Tattoos #3): Â£12.25
+ - The Picture of Dorian Gray: Â£29.70
+ - The Paris Wife: Â£36.80
+ - The Obsession: Â£45.43
+ - The Nightingale: Â£26.26
+ - The New Guy (and Other Senior Year Distractions): Â£44.92
+ - The Nanny Diaries (Nanny #1): Â£52.53
+ - The Name of God is Mercy: Â£37.25
+ - The Maze Runner (The Maze Runner #1): Â£20.93
+ - The Lover's Dictionary: Â£58.09
+ - The Lonely Ones: Â£43.59
+
+Scraping: http://books.toscrape.com/catalogue/page-38.html
+ - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses: Â£33.92
+ - The Last Painting of Sara de Vos: Â£55.55
+ - The Land of 10,000 Madonnas: Â£29.64
+ - The Infinities: Â£27.41
+ - The Husband's Secret: Â£52.51
+ - The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1): Â£47.80
+ - The Guns of August: Â£14.54
+ - The Guernsey Literary and Potato Peel Pie Society: Â£49.53
+ - The Goldfinch: Â£43.58
+ - The Giver (The Giver Quartet #1): Â£12.30
+ - The Girl with All the Gifts: Â£49.47
+ - The Girl Who Played with Fire (Millennium Trilogy #2): Â£22.14
+ - The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3): Â£57.48
+ - The Exiled: Â£43.45
+ - The End of Faith: Religion, Terror, and the Future of Reason: Â£22.13
+ - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory: Â£13.03
+ - The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements: Â£57.35
+ - The Devil Wears Prada (The Devil Wears Prada #1): Â£44.29
+ - The Demon-Haunted World: Science as a Candle in the Dark: Â£52.25
+ - The Day the Crayons Came Home (Crayons): Â£26.33
+
+Scraping: http://books.toscrape.com/catalogue/page-39.html
+ - The Da Vinci Code (Robert Langdon #2): Â£22.96
+ - The Cuckoo's Calling (Cormoran Strike #1): Â£19.21
+ - The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]): Â£26.78
+ - The Complete Poems: Â£41.32
+ - The Catcher in the Rye: Â£24.55
+ - The Cat in the Hat (Beginner Books B-1): Â£16.26
+ - The Case for Christ (Cases for Christianity): Â£47.84
+ - The Book Thief: Â£53.49
+ - The Book of Basketball: The NBA According to The Sports Guy: Â£44.84
+ - The Blind Side: Evolution of a Game: Â£53.71
+ - The Autobiography of Malcolm X: Â£23.43
+ - The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution: Â£34.32
+ - The Art of Fielding: Â£22.10
+ - Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character: Â£25.83
+ - Stiff: The Curious Lives of Human Cadavers: Â£36.74
+ - Spilled Milk: Based on a True Story: Â£49.51
+ - Something Borrowed (Darcy & Rachel #1): Â£48.96
+ - Something Blue (Darcy & Rachel #2): Â£54.62
+ - Soldier (Talon #3): Â£24.72
+ - Shopaholic & Baby (Shopaholic #5): Â£46.45
+
+Scraping: http://books.toscrape.com/catalogue/page-40.html
+ - Seven Days in the Art World: Â£52.33
+ - Seven Brief Lessons on Physics: Â£30.60
+ - Scarlet (The Lunar Chronicles #2): Â£14.57
+ - Sarah's Key: Â£46.29
+ - Saga, Volume 3 (Saga (Collected Editions) #3): Â£21.57
+ - Running with Scissors: Â£12.91
+ - Rogue Lawyer (Rogue Lawyer #1): Â£50.11
+ - Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars: Â£41.67
+ - Rework: Â£44.88
+ - Reservations for Two: Â£11.10
+ - Red: The True Story of Red Riding Hood: Â£28.54
+ - Ready Player One: Â£19.07
+ - Quiet: The Power of Introverts in a World That Can't Stop Talking: Â£43.55
+ - Prodigy: The Graphic Novel (Legend: The Graphic Novel #2): Â£43.63
+ - Persepolis: The Story of a Childhood (Persepolis #1-2): Â£39.13
+ - Packing for Mars: The Curious Science of Life in the Void: Â£56.68
+ - Outliers: The Story of Success: Â£14.16
+ - Original Fake: Â£31.45
+ - Orange Is the New Black: Â£24.61
+ - One for the Money (Stephanie Plum #1): Â£32.87
+
+Scraping: http://books.toscrape.com/catalogue/page-41.html
+ - Notes from a Small Island (Notes From a Small Island #1): Â£40.17
+ - Night (The Night Trilogy #1): Â£13.51
+ - Neither Here nor There: Travels in Europe: Â£38.95
+ - Naked: Â£31.69
+ - Morning Star (Red Rising #3): Â£29.40
+ - Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing: Â£57.83
+ - Midnight Riot (Peter Grant/ Rivers of London - books #1): Â£55.46
+ - Me Talk Pretty One Day: Â£57.60
+ - Manuscript Found in Accra: Â£34.98
+ - Lust & Wonder: Â£11.87
+ - Lila (Gilead #3): Â£12.47
+ - Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3): Â£33.26
+ - Life Without a Recipe: Â£59.04
+ - Life After Life: Â£26.13
+ - Letter to a Christian Nation: Â£22.20
+ - Let's Pretend This Never Happened: A Mostly True Memoir: Â£45.11
+ - Legend (Legend #1): Â£43.69
+ - Lean In: Women, Work, and the Will to Lead: Â£25.02
+ - Lamb: The Gospel According to Biff, Christ's Childhood Pal: Â£55.50
+ - Lady Renegades (Rebel Belle #3): Â£53.04
+
+Scraping: http://books.toscrape.com/catalogue/page-42.html
+ - Jurassic Park (Jurassic Park #1): Â£44.97
+ - It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond: Â£42.38
+ - Is Everyone Hanging Out Without Me? (And Other Concerns): Â£20.11
+ - Into the Wild: Â£56.70
+ - Inferno (Robert Langdon #4): Â£41.00
+ - In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin: Â£28.85
+ - If I Run (If I Run #1): Â£49.97
+ - I've Got Your Number: Â£19.69
+ - I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban: Â£28.88
+ - Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World: Â£33.14
+ - House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth: Â£43.70
+ - House of Leaves: Â£54.89
+ - Horrible Bear!: Â£37.52
+ - Holidays on Ice: Â£51.07
+ - Heir to the Sky: Â£44.07
+ - Green Eggs and Ham (Beginner Books B-16): Â£10.79
+ - Grayson, Vol 3: Nemesis (Grayson #3): Â£42.72
+ - Gratitude: Â£26.66
+ - Gone Girl: Â£37.60
+ - Golden (Heart of Dread #3): Â£42.21
+
+Scraping: http://books.toscrape.com/catalogue/page-43.html
+ - Girl in the Blue Coat: Â£46.83
+ - Fruits Basket, Vol. 3 (Fruits Basket #3): Â£45.17
+ - Friday Night Lights: A Town, a Team, and a Dream: Â£51.22
+ - Fire Bound (Sea Haven/Sisters of the Heart #5): Â£21.28
+ - Fifty Shades Freed (Fifty Shades #3): Â£15.36
+ - Fellside: Â£38.62
+ - Extreme Prey (Lucas Davenport #26): Â£25.40
+ - Eragon (The Inheritance Cycle #1): Â£43.87
+ - Eclipse (Twilight #3): Â£18.74
+ - Dune (Dune #1): Â£54.86
+ - Dracula: Â£52.62
+ - Do Androids Dream of Electric Sheep? (Blade Runner #1): Â£51.48
+ - Disrupted: My Misadventure in the Start-Up Bubble: Â£15.28
+ - Dead Wake: The Last Crossing of the Lusitania: Â£39.24
+ - David and Goliath: Underdogs, Misfits, and the Art of Battling Giants: Â£17.81
+ - Darkfever (Fever #1): Â£56.02
+ - Dark Places: Â£23.90
+ - Crazy Rich Asians (Crazy Rich Asians #1): Â£49.13
+ - Counting Thyme: Â£10.62
+ - Cosmos: Â£36.17
+
+Scraping: http://books.toscrape.com/catalogue/page-44.html
+ - Civilization and Its Discontents: Â£59.95
+ - Cinder (The Lunar Chronicles #1): Â£26.09
+ - Catastrophic Happiness: Finding Joy in Childhood's Messy Years: Â£37.35
+ - Career of Evil (Cormoran Strike #3): Â£24.72
+ - Breaking Dawn (Twilight #4): Â£35.28
+ - Brave Enough: Â£51.32
+ - Boy Meets Boy: Â£21.12
+ - Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen: Â£27.35
+ - Blink: The Power of Thinking Without Thinking: Â£21.74
+ - Black Flags: The Rise of ISIS: Â£40.87
+ - Black Butler, Vol. 1 (Black Butler #1): Â£49.31
+ - Big Little Lies: Â£22.11
+ - Between Shades of Gray: Â£20.79
+ - Best of My Love (Fool's Gold #20): Â£27.41
+ - Beowulf: Â£38.35
+ - Beautiful Creatures (Caster Chronicles #1): Â£21.55
+ - Awkward: Â£38.02
+ - Ash: Â£22.06
+ - Are We There Yet?: Â£10.66
+ - Are We Smart Enough to Know How Smart Animals Are?: Â£56.58
+
+Scraping: http://books.toscrape.com/catalogue/page-45.html
+ - Annie on My Mind: Â£36.83
+ - And Then There Were None: Â£35.01
+ - A Walk in the Woods: Rediscovering America on the Appalachian Trail: Â£30.48
+ - A Visit from the Goon Squad: Â£14.08
+ - A Storm of Swords (A Song of Ice and Fire #3): Â£31.22
+ - A Heartbreaking Work of Staggering Genius: Â£54.29
+ - 8 Keys to Mental Health Through Exercise: Â£31.04
+ - #GIRLBOSS: Â£50.96
+ - The Suffragettes (Little Black Classics, #96): Â£11.89
+ - The Sense of an Ending: Â£31.38
+ - The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2): Â£54.81
+ - The Course of Love: Â£16.78
+ - Sugar Rush (Offensive Line #2): Â£24.42
+ - Saga, Volume 2 (Saga (Collected Editions) #2): Â£11.75
+ - Run, Spot, Run: The Ethics of Keeping Pets: Â£20.02
+ - New Moon (Twilight #2): Â£12.86
+ - Life: Â£31.58
+ - Kindle Paperwhite User's Guide: Â£34.00
+ - H is for Hawk: Â£57.42
+ - Girl Online On Tour (Girl Online #2): Â£53.47
+
+Scraping: http://books.toscrape.com/catalogue/page-46.html
+ - Fruits Basket, Vol. 2 (Fruits Basket #2): Â£11.64
+ - Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book): Â£52.88
+ - Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1): Â£18.51
+ - While You Were Mine: Â£41.32
+ - Where Lightning Strikes (Bleeding Stars #3): Â£39.77
+ - When I'm Gone: Â£51.96
+ - Ways of Seeing: Â£39.51
+ - Vampire Knight, Vol. 1 (Vampire Knight #1): Â£15.40
+ - Vampire Girl (Vampire Girl #1): Â£53.82
+ - Twenty Love Poems and a Song of Despair: Â£30.95
+ - Travels with Charley: In Search of America: Â£57.82
+ - Three Wishes (River of Time: California #1): Â£44.18
+ - This One Moment (Pushing Limits #1): Â£48.71
+ - The Zombie Room: Â£19.69
+ - The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine): Â£36.52
+ - The Tumor: Â£41.56
+ - The Story of Hong Gildong: Â£43.19
+ - The Silent Wife: Â£12.34
+ - The Silent Twin (Detective Jennifer Knight #3): Â£36.25
+ - The Selfish Gene: Â£29.45
+
+Scraping: http://books.toscrape.com/catalogue/page-47.html
+ - The Secret Healer: Â£34.56
+ - The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1): Â£54.12
+ - The Republic: Â£33.78
+ - The Odyssey: Â£29.64
+ - The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1): Â£57.70
+ - The Nicomachean Ethics: Â£36.34
+ - The Name of the Wind (The Kingkiller Chronicle #1): Â£50.59
+ - The Mirror & the Maze (The Wrath and the Dawn #1.5): Â£29.38
+ - The Little Prince: Â£45.42
+ - The Light of the Fireflies: Â£54.43
+ - The Last Girl (The Dominion Trilogy #1): Â£36.26
+ - The Iliad: Â£16.16
+ - The Hook Up (Game On #1): Â£36.29
+ - The Haters: Â£27.89
+ - The Girl You Lost: Â£12.29
+ - The Girl In The Ice (DCI Erika Foster #1): Â£15.85
+ - The End of the Jesus Era (An Investigation #1): Â£14.40
+ - The Edge of Reason (Bridget Jones #2): Â£19.18
+ - The Complete Maus (Maus #1-2): Â£10.64
+ - The Communist Manifesto: Â£14.76
+
+Scraping: http://books.toscrape.com/catalogue/page-48.html
+ - The Bhagavad Gita: Â£57.49
+ - The Bette Davis Club: Â£30.66
+ - The Art of Not Breathing: Â£40.83
+ - Taking Shots (Assassins #1): Â£18.88
+ - Starlark: Â£25.83
+ - Skip Beat!, Vol. 01 (Skip Beat! #1): Â£42.12
+ - Sister Sable (The Mad Queen #1): Â£13.33
+ - Shatter Me (Shatter Me #1): Â£42.40
+ - Shameless: Â£58.35
+ - Shadow Rites (Jane Yellowrock #10): Â£21.72
+ - Settling the Score (The Summer Games #1): Â£44.91
+ - Sense and Sensibility: Â£37.46
+ - Saga, Volume 1 (Saga (Collected Editions) #1): Â£28.48
+ - Rhythm, Chord & Malykhin: Â£28.34
+ - Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5): Â£46.96
+ - Paradise Lost (Paradise #1): Â£24.96
+ - Paper Girls, Vol. 1 (Paper Girls #1-5): Â£21.71
+ - Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1): Â£29.87
+ - Origins (Alphas 0.5): Â£28.99
+ - One Second (Seven #7): Â£52.94
+
+Scraping: http://books.toscrape.com/catalogue/page-49.html
+ - On the Road (Duluoz Legend): Â£32.36
+ - Old Records Never Die: One Man's Quest for His Vinyl and His Past: Â£55.66
+ - Off Sides (Off #1): Â£39.45
+ - Of Mice and Men: Â£47.11
+ - Myriad (Prentor #1): Â£58.75
+ - My Perfect Mistake (Over the Top #1): Â£38.92
+ - Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1): Â£39.39
+ - Meditations: Â£25.89
+ - Matilda: Â£28.34
+ - Lost Among the Living: Â£27.70
+ - Lord of the Flies: Â£24.89
+ - Listen to Me (Fusion #1): Â£58.99
+ - Kitchens of the Great Midwest: Â£57.20
+ - Jane Eyre: Â£38.43
+ - Imperfect Harmony: Â£34.74
+ - Icing (Aces Hockey #2): Â£40.44
+ - Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1): Â£45.24
+ - Having the Barbarian's Baby (Ice Planet Barbarians #7.5): Â£34.96
+ - Giant Days, Vol. 1 (Giant Days #1-4): Â£56.76
+ - Fruits Basket, Vol. 1 (Fruits Basket #1): Â£40.28
+
+Scraping: http://books.toscrape.com/catalogue/page-50.html
+ - Frankenstein: Â£38.00
+ - Forever Rockers (The Rocker #12): Â£28.80
+ - Fighting Fate (Fighting #6): Â£39.24
+ - Emma: Â£32.93
+ - Eat, Pray, Love: Â£51.32
+ - Deep Under (Walker Security #1): Â£47.09
+ - Choosing Our Religion: The Spiritual Lives of America's Nones: Â£28.42
+ - Charlie and the Chocolate Factory (Charlie Bucket #1): Â£22.85
+ - Charity's Cross (Charles Towne Belles #4): Â£41.24
+ - Bright Lines: Â£39.07
+ - Bridget Jones's Diary (Bridget Jones #1): Â£29.82
+ - Bounty (Colorado Mountain #7): Â£37.26
+ - Blood Defense (Samantha Brinkman #1): Â£20.30
+ - Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1): Â£34.65
+ - Beyond Good and Evil: Â£43.38
+ - Alice in Wonderland (Alice's Adventures in Wonderland #1): Â£55.53
+ - Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1): Â£57.06
+ - A Spy's Devotion (The Regency Spies of London #1): Â£16.97
+ - 1st to Die (Women's Murder Club #1): Â£53.98
+ - 1,000 Places to See Before You Die: Â£26.08
+
+Reached the last page. Happy days!
