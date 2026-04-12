@@ -6,9 +6,16 @@ void display()
     glClearColor(1.0, 1.0, 1.0, 1.0);
     glClear(GL_COLOR_BUFFER_BIT);
 
-    // 2. Draw the Main Body (Beige Rectangle)
-    glColor3f(0.95f, 0.91f, 0.81f); // Beige color
+    glColor3f(1.0f, 1.0f, 1.0f);
     glBegin(GL_QUADS);
+    glVertex2f(-0.7f, -0.6f);
+    glVertex2f(0.7f, -0.6f);
+    glVertex2f(0.7f, 0.2f);
+    glVertex2f(-0.7f, 0.2f);
+    glEnd();
+
+    glColor3f(0.0f, 0.0f, 0.0f);
+    glBegin(GL_LINE_LOOP);
     glVertex2f(-0.7f, -0.6f);
     glVertex2f(0.7f, -0.6f);
     glVertex2f(0.7f, 0.2f);
@@ -63,9 +70,11 @@ void display()
     glVertex2f(0.4f, -0.1f);
     glVertex2f(0.3f, -0.2f);
     glVertex2f(0.5f, -0.2f);
-    // Door vertical line
+    // Door cross
     glVertex2f(0.0f, -0.6f);
     glVertex2f(0.0f, 0.0f);
+    glVertex2f(-0.15f, -0.3f);
+    glVertex2f(0.15f, -0.3f);
     glEnd();
 
     // 7. Door Knob (Black Point)
